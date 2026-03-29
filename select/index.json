@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "base_track": "ドリーマーズ・ハイ",
+  "base_artist": "RADWIMPS",
+  "createdAt": "2026-03-29T08:17:01.505322Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ドリーマーズ・ハイ",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/01_ドリーマーズ・ハイ_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ドリーマーズ・ハイ",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/02_ドリーマーズ・ハイ_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ドリーマーズ・ハイ",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/03_ドリーマーズ・ハイ_RADWIMPS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ドリーマーズ・ハイ",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_01_ドリーマーズ・ハイ_RADWIMPS.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "ドリーマーズ・ハイ",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/localdb_01_ドリーマーズ・ハイ_RADWIMPS.lrc",
+      "repo_name": "VJbezCOwg_8"
+    }
+  ]
+}
